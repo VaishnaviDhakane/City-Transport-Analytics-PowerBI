@@ -1,5 +1,3 @@
-<img width="1333" height="753" alt="Dashboard" src="https://github.com/user-attachments/assets/2879fd45-3f5d-4217-b254-9030ba4b2e29" /># 🚍 City Transport Analytics Dashboard  
-
 ## 📌 Project Overview  
 The City Transport Analytics Dashboard is an end-to-end data analytics project developed using Power BI to analyze and visualize urban transportation data. The primary goal of this project is to understand passenger travel patterns, identify peak travel hours, and evaluate route-wise performance to support efficient decision-making in city transport management.
 
